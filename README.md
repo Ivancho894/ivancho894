@@ -4,12 +4,12 @@ I build **AI SaaS products** and **multi-tenant platforms** in production.
 
 🚀 **Currently building:**
 
-### [TimonChat](enlace) — AI Sales & Reservations Bot for WhatsApp
+### [TimonChat](https://github.com/Ivancho894/timonchat-showcase) — AI Sales & Reservations Bot for WhatsApp
 Multi-tenant platform with two-step AI pipeline (Claude + RAG). Deployed on Meta WhatsApp Cloud API. First pilot with UluWind, a wingfoiling school in Argentina.
 
 `Node.js` `Supabase` `Claude API` `OpenAI` `Qdrant` `WhatsApp Cloud API`
 
-### [Edge Workshop](enlace) — Custom Product Configurator
+### [Edge Workshop](https://github.com/Ivancho894/edge-workshop-showcase/blob/main/README.md) — Custom Product Configurator
 Webapp configurator for premium custom letterboxes in Perth, Australia. Real-time pricing, Stripe integration, automated emails, admin panel. Replaced manual quoting process.
 
 `Next.js` `Node.js` `Stripe` `Supabase` `Vercel`
