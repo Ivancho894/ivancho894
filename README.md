@@ -29,6 +29,6 @@ Webapp configurator for premium custom letterboxes in Perth, Australia. Real-tim
 
 💼 **Available for freelance** — Open to AI SaaS, configurator, and integration projects.
 
-📩 ivanserradev@gmail.com
+📩 hello@ivanserralta.com
 🌐 [ivanserralta.com](https://ivanserralta.com)
 💼 [LinkedIn](https://linkedin.com/in/ivan-serralta)
