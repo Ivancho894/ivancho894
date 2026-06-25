@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ivan 👋
 
-<!--
-**Ivancho894/ivancho894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **AI SaaS products** and **multi-tenant platforms** in production.
 
-Here are some ideas to get you started:
+🚀 **Currently building:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [TimonChat](enlace) — AI Sales & Reservations Bot for WhatsApp
+Multi-tenant platform with two-step AI pipeline (Claude + RAG). Deployed on Meta WhatsApp Cloud API. First pilot with UluWind, a wingfoiling school in Argentina.
+
+`Node.js` `Supabase` `Claude API` `OpenAI` `Qdrant` `WhatsApp Cloud API`
+
+### [Edge Workshop](enlace) — Custom Product Configurator
+Webapp configurator for premium custom letterboxes in Perth, Australia. Real-time pricing, Stripe integration, automated emails, admin panel. Replaced manual quoting process.
+
+`Next.js` `Node.js` `Stripe` `Supabase` `Vercel`
+
+---
+
+🛠️ **Tech Stack**
+
+**Frontend:** Next.js · React · React Native · Tailwind
+**Backend:** Node.js · Nest.js · Python · Deno
+**Databases:** Supabase · PostgreSQL · Qdrant · Firestore
+**AI:** Claude API · OpenAI · RAG · Embeddings
+**Cloud:** AWS · GCP · Vercel · Firebase · Docker
+**Payments:** Stripe · MercadoPago · Shopify
+
+---
+
+💼 **Available for freelance** — Open to AI SaaS, configurator, and integration projects.
+
+📩 ivanserradev@gmail.com
+🌐 [ivanserralta.com](https://ivanserralta.com)
+💼 [LinkedIn](https://linkedin.com/in/ivan-serralta)
