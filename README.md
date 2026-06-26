@@ -5,7 +5,7 @@ I build **AI SaaS products** and **multi-tenant platforms** in production.
 🚀 **Currently building:**
 
 ### [TimonChat](https://github.com/Ivancho894/timonchat-showcase/blob/main/README.md) — AI Sales & Reservations Bot for WhatsApp
-Multi-tenant platform with two-step AI pipeline (Claude + RAG). Deployed on Meta WhatsApp Cloud API. First pilot with UluWind, a wingfoiling school in Argentina.
+Multi-tenant platform with two-step AI pipeline (Claude + RAG). Deployed on Meta WhatsApp Cloud API. First pilot with UluWind, a wingfoiling school with watersports equipment sales in Argentina.
 
 `Node.js` `Supabase` `Claude API` `OpenAI` `Qdrant` `WhatsApp Cloud API`
 
