@@ -38,7 +38,7 @@ Worked on an AI product that turns utility bills into cost insights for property
 
 ---
 
-💼 **Looking for** a remote mid-level engineering role at a startup with a real product and real users.
+💼 **Open to** software engineer roles — full-time, contract or freelance.
 
 📩 hello@ivanserralta.com
 🌐 [ivanserralta.com](https://ivanserralta.com)
